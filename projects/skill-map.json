@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "selection": "Choose 1-3 available skills matching task, not every listed candidate.",
+  "projects": [
+    {
+      "project": "道路规范学习、PDF提取、题库及A4试卷",
+      "skills": [
+        "pdf-question-bank",
+        "standards-exam-builder",
+        "quiz-generator",
+        "edubase-content-to-question-generator",
+        "exam-evaluator"
+      ],
+      "privacy": "内网/公司文件默认本地"
+    },
+    {
+      "project": "沥青工程智能数据助手（个人工作自用）",
+      "skills": [
+        "asphalt-field-data",
+        "deployment-diagnostics",
+        "regression-proof"
+      ],
+      "note": "非商业SaaS"
+    },
+    {
+      "project": "AutoCAD 2025 道路插件",
+      "skills": [
+        "road-cad-geometry",
+        "regression-proof"
+      ]
+    },
+    {
+      "project": "华测RTK边坡斜面面积",
+      "skills": [
+        "rtk-slope-area",
+        "assumption-test"
+      ]
+    },
+    {
+      "project": "Windows本地AI海外视频切片工厂",
+      "skills": [
+        "video-sourcing-compliance",
+        "reference-hunt",
+        "regression-proof"
+      ]
+    },
+    {
+      "project": "抖音原创AI短视频与小红书九宫格",
+      "skills": [
+        "original-video-workflow",
+        "brainstorm-prototypes"
+      ]
+    },
+    {
+      "project": "A股ETF基金量化分析",
+      "skills": [
+        "markets-data-dashboard",
+        "assumption-test"
+      ]
+    },
+    {
+      "project": "加密货币行情及新闻日报",
+      "skills": [
+        "crypto-news-daily",
+        "context-audit"
+      ]
+    },
+    {
+      "project": "中国大陆小众AI SaaS创业研究",
+      "skills": [
+        "domestic-saas-research",
+        "reference-hunt"
+      ]
+    },
+    {
+      "project": "本地AI硬件选型/DGX Spark",
+      "skills": [
+        "ai-hardware-evaluation",
+        "assumption-test"
+      ]
+    },
+    {
+      "project": "GitHub/Codex/Work项目集成与部署",
+      "skills": [
+        "find-skills",
+        "agent-interface-design",
+        "implementation-plan",
+        "regression-proof"
+      ]
+    },
+    {
+      "project": "项目归档、工程资料与学习",
+      "skills": [
+        "road-project-knowledge",
+        "pdf-question-bank"
+      ]
+    }
+  ]
+}
